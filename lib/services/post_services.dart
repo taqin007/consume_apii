@@ -1,8 +1,8 @@
 import 'dart:convert';
-import 'package:consume_apii/models/post.dart';
-import 'package:consume_apii/utils/endpoint.dart';
-import 'package:consume_apii/utils/request_helper.dart';
 import 'package:http/http.dart' as http;
+import 'package:kel_6_api/models/post.dart';
+import 'package:kel_6_api/utils/endpoint.dart';
+import 'package:kel_6_api/utils/request_helper.dart';
 
 class PostService {
   Future<http.Response> fetch() async {

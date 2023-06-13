@@ -1,9 +1,9 @@
-import 'package:consume_apii/models/post.dart';
-import 'package:consume_apii/pages/add_post_page.dart';
-import 'package:consume_apii/pages/homepage.dart';
-import 'package:consume_apii/pages/postpage.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:kel_6_api/models/post.dart';
+import 'package:kel_6_api/pages/add_post_page.dart';
+import 'package:kel_6_api/pages/homepage.dart';
+import 'package:kel_6_api/pages/postpage.dart';
 
 class Approutes {
   static const home = "home";

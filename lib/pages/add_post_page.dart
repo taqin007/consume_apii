@@ -1,6 +1,6 @@
-import 'package:consume_apii/controller/post_controller.dart';
-import 'package:consume_apii/models/post.dart';
 import 'package:flutter/material.dart';
+import 'package:kel_6_api/controller/post_controller.dart';
+import 'package:kel_6_api/models/post.dart';
 
 class AddPostPage extends StatefulWidget {
   const AddPostPage({super.key, this.post});
@@ -131,7 +131,7 @@ class _AddPostPageState extends State<AddPostPage> {
               style: ElevatedButton.styleFrom(backgroundColor: Colors.blue),
               child: Text(
                 widget.post != null ? "Edit" : "Tambah",
-                style: TextStyle(color: Colors.white),
+                style: const TextStyle(color: Colors.white),
               ),
             ),
           )

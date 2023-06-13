@@ -1,9 +1,9 @@
-import 'package:consume_apii/controller/post_controller.dart';
-import 'package:consume_apii/models/album.dart';
-import 'package:consume_apii/models/photo.dart';
-import 'package:consume_apii/models/post.dart';
 import 'package:flutter/material.dart';
-import 'package:consume_apii/models/comment.dart' as c;
+import 'package:kel_6_api/controller/post_controller.dart';
+import 'package:kel_6_api/models/comment.dart' as c;
+import 'package:kel_6_api/models/photo.dart';
+import 'package:kel_6_api/models/post.dart';
+import 'package:kel_6_api/models/album.dart';
 
 class PostPage extends StatefulWidget {
   const PostPage({super.key, required this.post});

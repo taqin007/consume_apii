@@ -1,8 +1,6 @@
-## KEL_6_TI_A
+## kel_3_api
 
-RIZKY MUTAQIEN
-RIDZKY GUNTUR N
-MUHAMMAD RIZAL N
+Jamil, Prayoga, Reksya, Dimas
 
 Consume API
 A new Flutter project.

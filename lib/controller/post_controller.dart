@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:consume_apii/models/album.dart';
-import 'package:consume_apii/models/comment.dart';
-import 'package:consume_apii/models/photo.dart';
-import 'package:consume_apii/models/post.dart';
-import 'package:consume_apii/services/post_services.dart';
+import 'package:kel_6_api/models/album.dart';
+import 'package:kel_6_api/models/comment.dart';
+import 'package:kel_6_api/models/photo.dart';
+import 'package:kel_6_api/models/post.dart';
+import 'package:kel_6_api/services/post_services.dart';
 
 class PostController {
   Future<List<Post>> fetchAll() async {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:consume_apii/controller/post_controller.dart';
-import 'package:consume_apii/models/post.dart';
-import 'package:consume_apii/utils/app_route.dart';
+import 'package:kel_6_api/controller/post_controller.dart';
+import 'package:kel_6_api/models/post.dart';
+import 'package:kel_6_api/utils/app_route.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
