@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kel_6_api">
+    package="com.example.kel_3_api">
    <application
-        android:label="kel_6_api"
-        android:name="Kel 6 API"
+        android:label="kel_3_api"
+        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,6 +1,7 @@
-## kel_6_api
+## kel_3_api
 
-Ridzky Guntur Nuriawan, Rizky Mutaqien , M rizal Nurul Hadi
+Jamil, Prayoga, Reksya, Dimas
+
 Consume API
 A new Flutter project.
 
